@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Great man</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <script src="https://kit.fontawesome.com/df59baf6b8.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+    
+</head>
+<body>
+    <header>
+        <h1 id="titulo" class="titulo">Demo IND</h1>
+        <button id="boton-carrito"><i class="fas fa-shopping-cart"></i><span id="contadorCarrito">0</span></button>
+    </header>
+
+    <div class="talles-container">
+        <h4 class="talles-title">Filtrar Productos</h3>
+            <input type="text" id="talles" placeholder="Nombre o Talle">
+            
+    </div>
+    
+    <main id="contenedor-productos">
+
+    </main>
+    <div class="modal-contenedor">
+        <div class="modal-carrito">
+            <h3>Carrito</h3>
+            <button id="carritoCerrar"><i class="fas fa-times-circle"></i></button>
+            <div id="contenedor-carrito">
+              
+            </div>
+            <p class="precioProducto">Precio total: $<span id="precioTotal">0</span></p>
+            <button id="vaciar-carrito" class="boton-enCarrito">Vaciar carrito</button>
+            <button id="confirmar-compra" class="boton-enCarrito">Comprar</button>
+        </div>
+    </div>
+    <div class="container">
+        <input type="checkbox" id="btn-mas">
+        <div class="redes">
+            <a href="https://www.facebook.com/" target="_blank" class="fa fa-facebook"></a>
+            <a href="https://www.instagram.com/" target="_blank" class="fa fa-instagram"></a>
+            <a href="https://www.whatsapp.com/" target="_blank" class="fa fa-whatsapp"></a>
+        </div>
+        <div class="btn-mas">
+            <label for="btn-mas">Redes</label>
+        </div>
+    </div>
+    <button class="btn-scrolltop btn-scrolltop-on" id="btn_scrolltop">
+        <i class="fas fa-chevron-up"></i>
+    </button>
+
+ 
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./boton-up.js"></script>
+    <script src="./modal.js"></script>
+    <script src="./botones.js"></script>
+    <script  src="./main.js"></script>
+</body>
+</html>

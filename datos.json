@@ -1,0 +1,28 @@
+[
+    {"id": 1, "nombre": "Buzo Adidas", "tipo": "buzo", "cantidad": 1, "desc": "Buzo adidas clasico Running", "precio": 1200, "talle": "small", "img": "./imagenes/buzo-adidas.webp"},
+    {"id": 2, "nombre": "Buzo Fila", "tipo": "buzo", "cantidad": 1, "desc": "Buzo Fila estilo urbano", "precio": 800, "talle": "medium", "img": "./imagenes/filaV1.webp"},
+    {"id": 3, "nombre": "Buzo Hollister", "tipo": "buzo", "cantidad": 1, "desc": "Buzo Hollister estilo rustico", "precio": 1500, "talle": "large", "img": "./imagenes/buzo-hollister.webp"},
+    {"id": 4, "nombre": "Buzo Nike", "tipo": "buzo", "cantidad": 1, "desc": "Buzo Nike clasico rustico", "precio": 1000, "talle": "large", "img": "./imagenes/buzo-nike.webp"},
+    {"id": 5, "nombre": "Camisa Bensimon", "tipo": "camisa", "cantidad": 1, "desc": "Camisa Bensimon de vestir", "precio": 1500, "talle": "small", "img": "./imagenes/camisa-bensimon.webp"},
+    {"id": 6, "nombre": "Camisa Polo", "tipo": "camisa", "cantidad": 1, "desc": "Camisa Polo de Jean", "precio": 1700, "talle": "medium", "img": "./imagenes/camisa-polo.webp"},
+    {"id": 7, "nombre": "Camisa Rip Curl", "tipo": "camisa", "cantidad": 1, "desc": "Camisa RipCurl floreada", "precio": 1800, "talle": "small", "img": "./imagenes/camisa-ripcurl.webp"},
+    {"id": 8, "nombre": "Camisa Vans", "tipo": "camisa", "cantidad": 1, "desc": "Camisa Vans floreada", "precio": 1200, "talle": "large", "img": "./imagenes/camisa-vans.webp"},
+    {"id": 16, "nombre": "Gorra Fila", "tipo": "gorra", "cantidad": 1, "desc": "Gorra Fila modelo clasico de tipo sport", "precio": 1800, "talle": "medium", "img": "./imagenes/gorra-fila.webp"},
+    {"id": 16, "nombre": "Gorra Hollister", "tipo": "gorra", "cantidad": 1, "desc": "Gorra Hollister de tipo Skate reforzada", "precio": 1300, "talle": "large", "img": "./imagenes/gorra-hollister.webp"},
+    {"id": 16, "nombre": "Gorra Levis", "tipo": "gorra", "cantidad": 1, "desc": "Gorra Levis clasica de tipo urbano", "precio": 1600, "talle": "medium", "img": "./imagenes/gorra-levis.webp"},
+    {"id": 16, "nombre": "Gorra Polo", "tipo": "gorra", "cantidad": 1, "desc": "Gorra Polo clasica de tipo urbano", "precio": 1500, "talle": "large", "img": "./imagenes/gorra-polo.webp"},
+    {"id": 9, "nombre": "Pantalon Adidas", "tipo": "pantalon", "cantidad": 1, "desc": "Pantalon Adidas tipo jogger", "precio": 2500, "talle": "small", "img": "./imagenes/pantalon-adidas.webp"},
+    {"id": 10, "nombre": "Pantalon Fila", "tipo": "pantalon", "cantidad": 1, "desc": "Pantalon Fila tipo jogger", "precio": 2200, "talle": "medium", "img": "./imagenes/pantalon-fila.webp"},
+    {"id": 11, "nombre": "Pantalon Hollister", "tipo": "pantalon", "cantidad": 1, "desc": "Pantalon Hollister tipo Jogger", "precio": 3000, "talle": "small", "img": "./imagenes/pantalon-hollister.webp"},
+    {"id": 12, "nombre": "Pantalon Nike", "tipo": "pantalon", "cantidad": 1, "desc": "Pantalon Nike tipo urbano", "precio": 1800, "talle": "large", "img": "./imagenes/pantalon-nike.webp"},
+    {"id": 13, "nombre": "Remera Adidas", "tipo": "remera", "cantidad": 1, "desc": "Remera Adidas clasica de algodon con logo estampado", "precio": 1200, "talle": "small", "img": "./imagenes/remera-adidas.webp"},
+    {"id": 14, "nombre": "Remera Hollister", "tipo": "remera", "cantidad": 1, "desc": "Remera Hollister clasica de algodon con logo estampado", "precio": 1700, "talle": "medium", "img": "./imagenes/remera-hollister.webp"},
+    {"id": 15, "nombre": "Remera Nike", "tipo": "remera", "cantidad": 1, "desc": "Remera Nike lisa clasica modelo running/sport", "precio": 1600, "talle": "large", "img": "./imagenes/remera-nike.webp"},
+    {"id": 16, "nombre": "Remera Tommy Hilfiger", "tipo": "remera", "cantidad": 1, "desc": "Remera TommyHilfiger clasica de algodon con logo impreso", "precio": 1100, "talle": "large", "img": "./imagenes/remera-tommy.webp"},
+    {"id": 16, "nombre": "Riñonera Adidas", "tipo": "riñonera", "cantidad": 1, "desc": "Riñonera Adidas clasica de tipo urbano", "precio": 1300, "talle": "small", "img": "./imagenes/riño-adidas.webp"},
+    {"id": 16, "nombre": "Riñonera Everlast", "tipo": "riñonera", "cantidad": 1, "desc": "Riñonera Everlast regulable y reforzada de tipo Sport", "precio": 1700, "talle": "large", "img": "./imagenes/riño-everlast.webp"},
+    {"id": 16, "nombre": "Riñonera Fila", "tipo": "riñonera", "cantidad": 1, "desc": "Riñonera Fila clasica reforzada, de tipo urbano", "precio": 1800, "talle": "large", "img": "./imagenes/riño-fila.webp"},
+    {"id": 16, "nombre": "Riñonera Nike", "tipo": "riñonera", "cantidad": 1, "desc": "Riñonera Nike clasica de tipo urbano", "precio": 1500, "talle": "small", "img": "./imagenes/riño-nike.webp"}
+ 
+
+]
